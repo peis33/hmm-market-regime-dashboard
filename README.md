@@ -29,7 +29,6 @@
 
 ## 前端（Next.js）
 
-```bash
 npm install
 npm run dev
 開啟：
@@ -38,6 +37,7 @@ http://localhost:3000
 ---
 
 ## 後端（FastAPI）
+
 cd backend
 python -m venv .venv
 .venv\Scripts\activate
